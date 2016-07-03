@@ -1,5 +1,7 @@
 *.class
-
+#IDEA#
+*.imi
+.idea/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
